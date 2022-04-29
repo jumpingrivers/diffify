@@ -4,3 +4,4 @@ Diffify enables quick and easy comparison between different versions of any R pa
 
 Explore the tool at [diffify.com](https://diffify.com/).
 
+If you see anything that isn't working as it should, please raise an new issue [here](https://github.com/jumpingrivers/diffify/issues). 
