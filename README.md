@@ -1,6 +1,6 @@
 ### Diffify
 
-Diffify enables quick and easy comparison between different versions of any R package stored on CRAN. In particular, Diffify provides information from the News file, as well as changes in the dependencies, namespace and functions of a package.
+Diffify enables quick and easy comparison between different versions of R packages stored on [CRAN](https://cran.r-project.org/) and Python packages stored on [PyPI](https://pypi.org/). In particular, diffify provides information from the News file, as well as changes in the dependencies, namespace and functions of a package.
 
 Explore the tool at [diffify.com](https://diffify.com/).
 
